@@ -1,0 +1,1 @@
+data[["Math", "Science", "English"]].mean()
