@@ -1,0 +1,1 @@
+data[["Study_Hours", "Average"]].corr()
