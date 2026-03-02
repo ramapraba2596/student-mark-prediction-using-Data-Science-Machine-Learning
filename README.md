@@ -10,5 +10,4 @@ Process:
 Import libraries and create dataset
 Split data into train and test sets
 Train Linear Regression model
-Predict marks on test set and evaluate with R² score
-Take new input from user to predict marks interactively
+Predict marks on test set 
